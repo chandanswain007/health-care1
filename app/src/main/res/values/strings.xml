@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthcare</string>
+    <string name="username">Username</string>
+    <string name="signup_page">Signup Page</string>
+</resources>
